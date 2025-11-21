@@ -50,7 +50,7 @@ Key steps included:
 - Created calculated columns for deeper insights  
 - Built summary tables for quick interpretation and decision-making  
 
-The project demonstrates proficiency in:
+## 📌 The project demonstrates proficiency in:
 
 - Cleaning and preparing raw data  
 - Building summary tables  
